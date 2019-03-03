@@ -1,0 +1,34 @@
+| 393 nm | -430 mV | No change | - |
+| 407 nm | -70 mV | No change | - |
+| 451 nm | -384 mV | No change | - |
+| 475 nm | -175 mV | No change | - |
+| 496 nm | -150 mV | No change | - |
+| 506 nm | -520 mV | No change | - |
+| 508 nm | -80 mV | No change | - |
+| 509 nm | -40 mV | No change | - |
+| 512 nm | -40 mV | No change | - |
+| 538 nm | -86 mV | No change | - |
+| 581 nm | -186 mV | +2 dB | 3 dB sensitivity |
+| 587 nm | -110 mv | +4 dB | 1 dB sensitivity |
+| 590 nm | -510 mv | +5 dB | 3 dB sensitivity |
+| 593 nm | -800 mV | - | Oscillating a lot. Probably just noise. |
+| 595 nm | -60 mV | +5 dB | 1 dB sensitivity |
+| 599 nm | -280 mV | -9 dB | 10 dB sensitivity |
+| 608 nm | -66 mV | +3 dB | 1 dB sensitivity |
+| 613 nm |  -150 mV | -6 dB |  3 dB sensitivity |
+| 615 nm | -260 mV | -3 dB | 30 dB sensitivity |
+| 620 nm | -285 mV | +3 dB | 3 dB sensitivity |
+| 622 nm | -100 mV | +5 dB | 1 dB sensitivty |
+| 627 nm | -40 mV | No change | - |
+| 632 nm | -100 mV | - | Small oscillations. Probably just noise. |
+| 639 nm | -80 mV | +2 dB | 1 dB sensitivity |
+| 644 nm | -100 mV | +4-8 dB | 0.3 dB sensitivity; possibly noise |
+| 646 nm | -360 mV | +4-+5 dB |  3 dB sensitivity |
+| 656 nm | -100 mV | +2-+4 dB |  1 dB sensitivity |
+| 665 nm | -40 mV | +1-+3 dB |  1 dB sensitivity |
+| 674 nm | -100 mV | -6 dB | 3 dB sensitivity |
+| 678 nm | -30 mV | No change | - |
+| 699 nm | -20 mV | 1.5 dB | 0.3 dB sensitivity; increased time constant to 400|
+| 710 nm | -25 mV | +2 dB | 0.3 dB sensitivity |
+| 785 nm | -222 mV | - | Small oscillations. Probably just noise. |
+| 814 nm | -30 mV | No change |  - |
