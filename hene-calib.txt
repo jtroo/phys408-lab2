@@ -1,12 +1,12 @@
 |389| -430 mV | No change | - |
 |403| -70 mV | No change | - |
 |447| -384 mV | No change | - |
-|471| -175 mV | No change | - |
-|492| -150 mV | No change | - |
-|502| -520 mV | No change | - |
-|504| -80 mV | No change | - |
-|505| -40 mV | No change | - |
-|508| -40 mV | No change | - |
+|470| -175 mV | No change | - |
+|491| -150 mV | No change | - |
+|501| -520 mV | No change | - |
+|503| -80 mV | No change | - |
+|504| -40 mV | No change | - |
+|507| -40 mV | No change | - |
 |533| -86 mV | No change | - |
 |576| -186 mV | +2 dB | 3 dB sensitivity |
 |582| -110 mv | +4 dB | 1 dB sensitivity |
@@ -28,7 +28,7 @@
 |660| -40 mV | +1-+3 dB |  1 dB sensitivity |
 |669| -100 mV | -6 dB | 3 dB sensitivity |
 |673| -30 mV | No change | - |
-|694| -20 mV | 1.5 dB | 0.3 dB sensitivity; increased time constant to 400|
-|705| -25 mV | +2 dB | 0.3 dB sensitivity |
-|780| -222 mV | - | Small oscillations. Probably just noise. |
-|809| -30 mV | No change |  - |
+|693| -20 mV | 1.5 dB | 0.3 dB sensitivity; increased time constant to 400|
+|704| -25 mV | +2 dB | 0.3 dB sensitivity |
+|779| -222 mV | - | Small oscillations. Probably just noise. |
+|808| -30 mV | No change |  - |
